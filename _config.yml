@@ -1,0 +1,45 @@
+# Site settings
+title: CS 499 Capstone Portfolio
+description: Event scraping system enhancements for software engineering capstone
+author: Dylan Miller
+email: dylan.miller3@snhu.edu
+
+# Build settings
+markdown: kramdown
+theme: jekyll-theme-minimal
+
+# URLs
+baseurl: ""
+url: "https://dy1b0t.github.io"
+
+# Navigation
+navigation:
+  - name: Home
+    link: /
+  - name: Code Review
+    link: /code-review
+  - name: Software Engineering
+    link: /software-engineering
+  - name: Algorithms
+    link: /algorithms
+  - name: Databases
+    link: /databases
+
+# Project info
+project_name: todointc
+project_repo: https://github.com/dy1b0t/todointc
+
+# Course details
+course: CS 499
+semester: Fall 2025
+school: SNHU
+
+# Social
+github_username: dy1b0t
+linkedin_username: drm-swe
+
+# Exclude
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
