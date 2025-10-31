@@ -40,6 +40,5 @@ linkedin_username: drm-swe
 
 # Exclude
 exclude:
-  - README.md
   - Gemfile
   - Gemfile.lock
