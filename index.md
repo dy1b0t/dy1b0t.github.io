@@ -1,8 +1,3 @@
-layout: default
-title: CS 499 Capstone – ToDoInTC
-permalink: /
----
-
 # CS 499 Capstone – ToDoInTC ePortfolio
 
 This is the public, in-browser view of my CS 499 capstone. It dual-publishes the required Word documents alongside readable pages so instructors can review without downloads while keeping the formal `.docx` submissions intact.
