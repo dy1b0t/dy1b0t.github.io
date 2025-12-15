@@ -1,25 +1,32 @@
----
 layout: default
-title: Professional Self-Assessment
+title: CS 499 Capstone – ToDoInTC
+permalink: /
 ---
 
-# Professional Self-Assessment
+# CS 499 Capstone – ToDoInTC ePortfolio
 
-This ePortfolio presents the CS 499 capstone enhancements for **ToDoInTC**, a production-grade backend that aggregates and normalizes local event data for Traverse City, Michigan. The capstone work demonstrates growth across software engineering, algorithms, and databases while balancing reliability, cost efficiency, and operational control.
+This is the public, in-browser view of my CS 499 capstone. It dual-publishes the required Word documents alongside readable pages so instructors can review without downloads while keeping the formal `.docx` submissions intact.
 
-> **Formal submission available:** [Download Word document](./professional-self-assessment.docx)
+> **Formal self-assessment (Word):** [Download](./professional-self-assessment.docx)
 
-## Highlights
-- Reflects on program-long learning and professional growth
-- Connects coursework to real-world engineering decisions
-- Summarizes how each enhancement strengthens the artifact and my readiness for industry roles
-
-## Quick Navigation
+## Read in Browser
+- Professional Self-Assessment (this page)
 - [Code Review](./code-review)
-- [Enhancement One: Software Engineering & Design](./software-engineering)
-- [Enhancement Two: Algorithms & Data Structures](./algorithms)
-- [Enhancement Three: Databases](./databases)
-- [Original code (private)](https://github.com/dy1b0t/todointc) — access for instructors on request
+- [Enhancement One — Software Engineering & Design](./software-engineering)
+- [Enhancement Two — Algorithms & Data Structures](./algorithms)
+- [Enhancement Three — Databases](./databases)
+
+## Official Word Submissions
+- [Professional Self-Assessment](./professional-self-assessment.docx)
+- [Enhancement One — Software Engineering & Design](./narratives/enhancement-one-software-engineering.docx)
+- [Enhancement Two — Algorithms & Data Structures](./narratives/enhancement-two-algorithms-data-structures.docx)
+- [Enhancement Three — Databases](./narratives/enhancement-three-databases.docx)
 
 ## Artifact Context
-The enhanced artifact is a distributed ingestion pipeline with microservices for discovery, validation, classification, and persistence of event data. Enhancements focus on safer deployments, deterministic scraping controls, and data integrity safeguards, aligning with CS 499 outcomes for professional practice.
+- **Project:** ToDoInTC backend — distributed ingestion pipeline for Traverse City events
+- **Focus areas:** safer deployments, deterministic scraping controls, and data integrity safeguards across software engineering, algorithms, and databases
+- **Source (private):** https://github.com/dy1b0t/todointc (instructor access on request)
+
+## What to Expect
+- Each page above is the readable narrative; each includes a banner linking to the formal `.docx` submission.
+- This layout satisfies the CS 499 requirement for Word documents while providing an easy-to-view GitHub Pages experience.
