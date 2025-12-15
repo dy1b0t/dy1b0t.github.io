@@ -21,7 +21,6 @@ This is the public, in-browser view of my CS 499 capstone. It dual-publishes the
 - **Project:** ToDoInTC backend — distributed ingestion pipeline for Traverse City events
 - **Focus areas:** safer deployments, deterministic scraping controls, and data integrity safeguards across software engineering, algorithms, and databases
 - **Source (private):** https://github.com/dy1b0t/todointc (instructor access on request)
-<img width="937" height="571" alt="Screenshot 2025-12-14 at 10 51 44 PM" src="https://github.com/user-attachments/assets/bf729e1b-0f66-489e-af7d-838596d8a0f6" />
 
 ![Fly deployment architecture](./fly-deployment.png)
 
